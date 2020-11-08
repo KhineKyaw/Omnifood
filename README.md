@@ -1,7 +1,7 @@
 # Omnifood
 A single-page landing site for food services.
 Most html, css are written from scratch to practice front end development
-Responsive, and designed with beautiful animations
+Responsive, and designed with beautiful animations.
 
 ### Course Info
 
